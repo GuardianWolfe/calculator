@@ -1,1 +1,1 @@
-MiTYA IS Stupid
+This is a simple Calculator
